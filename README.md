@@ -14,4 +14,7 @@
 -->
   
 ![social](https://user-images.githubusercontent.com/82303989/208237842-bba94fce-6751-4791-8b3c-ae55096f4035.gif)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongAAAAAAAAA&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
